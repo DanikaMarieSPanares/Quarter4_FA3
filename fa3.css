@@ -1,0 +1,8 @@
+    body {
+      margin: 20px;
+      background-color: rgb(255, 186, 230);
+    }
+    #output, #contactsOutput {
+      margin-top: 20px;
+      white-space: pre;
+    }
